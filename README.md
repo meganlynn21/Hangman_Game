@@ -1,2 +1,2 @@
 # Hangman_Game
-![](img/Hangman_Game.png)
+![](img/Hangman.png)
